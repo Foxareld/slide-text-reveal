@@ -1,0 +1,52 @@
+.red {
+	background-color:#F00;
+	color:#b80000;
+}
+.orange {
+	background-color:#FFA500;
+	color:#ff7200;
+}
+.yellow {
+	background-color:f5f50e;
+	color:#CC0;
+}
+.green {
+	background-color:#00eb00;
+	color:#008000;
+}
+.blue {
+	background-color:#00F;
+	color:#0000a5;
+}
+.indigo {
+	background-color:#4B0082;
+	color:#2a0048;
+}
+.violet {
+	background-color:#EE82EE;
+	color:#bd38bd;
+}
+
+.slide_reveal_container {
+	display:none;
+}
+
+.slide_wrapper {
+	width:0;
+	font-weight:bold;
+	text-align:center;
+}
+
+.reveal_event {
+	float:left;
+}
+
+.reveal_event img {
+	cursor:pointer;
+}
+
+.reveal_open {
+	display:block;
+	height:auto;
+}
+
